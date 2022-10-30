@@ -1,6 +1,6 @@
-## Terraform (IaaS) for AWS
+## Terraform (IaaC) for AWS
 
-A simples example how to create a IaaS with Terraform to create a EC2 instance on AWS.
+A simples example how to create a IaaC with Terraform to create a EC2 instance on AWS.
 
 ### Configurations
 
